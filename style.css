@@ -1,7 +1,7 @@
 .main-button {
     
     border: none;
-    color: white;
+    color: rgb(12, 1, 1);
     padding: 10px 25px;
     text-align: center;
     text-decoration: none;
@@ -14,16 +14,16 @@
   }
 
   .button-red {
-    background-color: #c22b11; /* Red */
+    background-color: #119cc2; 
   }
 
   .button-green {
-    background-color: #36d816; /* Green */
+    background-color: #119cc2; 
   }
 
   .logged-in {
     border: none;
-    color: white;
+    color: rgb(0, 0, 0);
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -36,7 +36,7 @@
   .home {
     background-color: #1e8fac; /* Green */
     border: none;
-    color: white;
+    color: rgb(7, 0, 0);
     text-align: center;
     text-decoration: none;
     display: inline-block;
